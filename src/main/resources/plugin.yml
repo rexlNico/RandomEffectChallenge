@@ -1,0 +1,7 @@
+name: RandomEffect
+version: '${version}'
+main: de.rexlnico.randomeffect.RandomEffect
+api-version: 1.19
+authors: [ rexlNico ]
+commands:
+  retry:
